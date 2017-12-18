@@ -1,9 +1,9 @@
 'use strict';
 
 var React = require('react');
+var PropTypes = require('prop-types');
 var {
-  Component,
-  PropTypes
+  Component
 } = React;
 
 var ReactNative = require('react-native');
