@@ -1,5 +1,5 @@
 {
-  "name": "react-native-flip-view",
+  "name": "react-native-citycheck-flip-view",
   "version": "1.0.5",
   "description": "JavaScript implementation of a view container that can flip between its front and back",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DispatcherInc/react-native-flip-view.git"
+    "url": "git+https://github.com/CityCheck/react-native-flip-view.git"
   },
   "keywords": [
     "react-native",
@@ -22,7 +22,7 @@
   "author": "Kevin Stumpf",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DispatcherInc/react-native-flip-view/issues"
+    "url": "https://github.com/CityCheck/react-native-flip-view/issues"
   },
-  "homepage": "https://github.com/DispatcherInc/react-native-flip-view#readme"
+  "homepage": "https://github.com/CityCheck/react-native-flip-view#readme"
 }
