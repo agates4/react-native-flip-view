@@ -14,9 +14,11 @@ var {
   Animated,
   } = ReactNative;
 
+import ViewPropTypes from 'react-native'
+
 class FlipView extends Component {
   static propTypes = {
-    style: View.propTypes.style,
+    style: ViewPropTypes.style,
     flipDuration: PropTypes.number,
     flipEasing: PropTypes.func,
     flipAxis: PropTypes.oneOf(['x', 'y']),
