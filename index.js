@@ -18,7 +18,7 @@ import ViewPropTypes from 'react-native'
 
 class FlipView extends Component {
   static propTypes = {
-    style: ViewPropTypes.style,
+    style: PropTypes.object,
     flipDuration: PropTypes.number,
     flipEasing: PropTypes.func,
     flipAxis: PropTypes.oneOf(['x', 'y']),
